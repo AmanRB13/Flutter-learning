@@ -1,6 +1,6 @@
 # flutter_project
 
-A new Flutter project.
+Flutter widgets
 
 ## Getting Started
 
