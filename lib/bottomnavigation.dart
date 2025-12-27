@@ -1,4 +1,4 @@
-//  this is just simple bottom navigaton //
+
 import 'package:flutter/material.dart';
 import 'snackbar.dart';
 import 'drawer.dart';
